@@ -1,0 +1,15 @@
+#include<stdlib.h>
+#include<stdio.h>
+int main()
+{
+int N;
+int vett[3]
+int i,j;
+{ 
+do
+{
+printf("dammi 3 numeri"\n\n\n);
+scanf("%d",&N);
+}
+while(N>0||N<=3);
+for()
